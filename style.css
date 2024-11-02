@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.css-dark-mode {
+  background-color: black;
+  transition: 1s;
+}
+.js-mode-button {
+  background-color: transparent;
+  color: white;
+}
+
+.darkJumbotron {
+  background-color: #667474;
+}
+
+.jumbotron h2 {
+  font-weight: bold;
+}
+
+svg path .myPath {
+  fill: antiquewhite;
+}
+
+.js-mode-button {
+  left: 87%;
+  position: sticky;
+  top: 100px;
+  position: -webkit-sticky;
+  position: sticky;
+}
